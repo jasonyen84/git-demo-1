@@ -1,6 +1,5 @@
-print("123")
-
 x = 20
 y = 10
+z = x * y
 
-print(x + y)
+print(z)
